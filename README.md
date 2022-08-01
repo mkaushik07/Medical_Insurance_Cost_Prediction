@@ -4,8 +4,8 @@ A health insurance company can only make money if it collects more than it spend
 
 Algorithms used are :-
 
-Normal Equation
-Linear Regression with equation of degree 2 and 3
-Decision Tree
-Support Vector Machine
-Random Forest
+1) Normal Equation
+2) Linear Regression with equation of degree 2 and 3
+3) Decision Tree
+4) Support Vector Machine
+5) Random Forest
